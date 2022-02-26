@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/1x1.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball1.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball2.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball3.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball4.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball5.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball6.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/ball7.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/BG gameplay.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/gun.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/neptune.png</File>
+    <File>/Users/macintosh/Desktop/Lab/Game dev/Bunrod-Daddy/Bunrod-Daddy/Content/space-ship.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
